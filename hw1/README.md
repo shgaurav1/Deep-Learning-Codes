@@ -175,9 +175,4 @@ References:
 [9]: https://developer.nvidia.com/cudnn
 [10]: https://github.com/pytorch/pytorch#installation
 [11]: https://github.com/pytorch/pytorch
-[12]: http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
-
-
----
-
-&#169; 2017 Georgia Tech
+[12]: http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.
